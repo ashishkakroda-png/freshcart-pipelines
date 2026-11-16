@@ -1,3 +1,5 @@
+[Python CI](https://github.com/ashishkakroda-png/freshcart-pipelines/actions/workflows/ci.yml/badge.svg)
+
 # From Git to Gold — FreshCart Pipelines
 
 Course assignment workspace for Git/CI, FreshCart ELT on Snowflake, Mage Iris ML, and RabbitMQ event streaming.
